@@ -8,13 +8,11 @@ Welcome to **FMFY** — a community-curated collection of software, tools, servi
 
 **FMFY (Free Media For You)** is a list-based platform where you can discover:
 
-- Cracked software
-- Modded apps
+- Softwares
+- Apps
 - Streaming services
 - Educational resources
 - Useful online tools
-
-It’s a brother project inspired by **FMHY**, made to keep things clean, updated, and community-supported.
 
 ---
 
