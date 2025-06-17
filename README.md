@@ -1,12 +1,17 @@
 # 📦 FMFY — Free Media For You
 
-Welcome to **FMFY** — a community-curated collection of software, tools, services, and resources shared for educational and personal testing purposes.
+![Repo Size](https://img.shields.io/github/repo-size/HexaGhost-09/FMFY?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/HexaGhost-09/FMFY?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/HexaGhost-09/FMFY?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/HexaGhost-09/FMFY?style=for-the-badge)
+![License](https://img.shields.io/github/license/HexaGhost-09/FMFY?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/HexaGhost-09/FMFY?style=for-the-badge)
 
 ---
 
 ## 📖 What is FMFY?
 
-**FMFY (Free Media For You)** is a list-based platform where you can discover:
+**FMFY (Free Media For You)** is a community-curated list where you can discover:
 
 - Softwares
 - Apps
@@ -18,12 +23,12 @@ Welcome to **FMFY** — a community-curated collection of software, tools, servi
 
 ## 📚 Categories
 
-- 📀 Software
-- 📱 Mobile Apps
-- 🎬 Streaming Sites
-- 📚 Learning Resources
-- 🎮 Games
-- 🌐 Online Tools
+- 📀 Software  
+- 📱 Mobile Apps  
+- 🎬 Streaming Sites  
+- 📚 Learning Resources  
+- 🎮 Games  
+- 🌐 Online Tools  
 
 ---
 
