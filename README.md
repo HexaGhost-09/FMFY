@@ -16,12 +16,13 @@
 
 ## 📚 Categories
 
-- 📀 [Software](Categories/📀%20Software/list.md)
-- 📱 [Mobile Apps](Categories/📱%20Mobile%20Apps/list.md)
-- 🎬 [Streaming Sites](Categories/🎬%20Streaming%20Sites/list.md)
-- 📚 [Learning Resources](Categories/📚%20Learning%20Resources/list.md)
-- 🎮 [Games](Categories/🎮%20Games/list.md)
-- 🌐 [Online Tools](Categories/🌐%20Online%20Tools/list.md)
+- 🤖 [AI](Categories/AI/list.md)
+- 💻 [Computer](Categories/Computer/list.md)
+- 📚 [Educational](Categories/Educational/list.md)
+- 🎮 [Gaming](Categories/Gaming/list.md)
+- 📱 [Mobile](Categories/Mobile/list.md)
+- 🎬 [Streaming](Categories/Streaming/list.md)
+- 🌐 [Torrenting](Categories/Torrenting/list.md)
 
 ---
 
