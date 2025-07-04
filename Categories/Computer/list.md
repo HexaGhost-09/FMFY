@@ -30,7 +30,7 @@ A collection of useful computer programs, tools, and utilities for different ope
 
 ## 📀 Chrome OS / FydeOS
 
-- **[FydeOS Images](FMFY/Categories/Computer/FydeOs-Images.md)** — Download official FydeOS images for PC, AMD APU, and Chromebook devices.
+- **[FydeOS Images](Categories/Computer/FydeOs/FydeOs-Images.md)** — Download official FydeOS images for PC, AMD APU, and Chromebook devices.
 
 ---
 
