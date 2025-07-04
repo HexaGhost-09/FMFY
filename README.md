@@ -2,48 +2,52 @@
 
 ---
 
-## 📖 What is FMFY?
+## 📖 About FMFY
 
-**FMFY (Free Media For You)** is a community-curated list where you can discover:
+**FMFY (Free Media For You)** is a community-powered hub where you’ll discover:
 
-- Softwares
-- Apps
-- Streaming services
-- Educational resources
-- Useful online tools
-
----
-
-## 📚 Categories
-
-- 🤖 [AI](Categories/AI/list.md)
-- 💻 [Computer](Categories/Computer/list.md)
-- 📚 [Educational](Categories/Educational/list.md)
-- 🎮 [Gaming](Categories/Gaming/list.md)
-- 📱 [Mobile](Categories/Mobile/list.md)
-- 🎬 [Streaming](Categories/Streaming/list.md)
-- 🌐 [Torrenting](Categories/Torrenting/list.md)
+- 📦 Softwares & Apps  
+- 🎬 Streaming Services  
+- 📚 Learning Resources  
+- ⚙️ Handy Online Tools  
 
 ---
 
-## 📌 How to Use
+## 📚 Explore Categories
 
-1. Browse the categories.
-2. Pick your desired tool/service.
-3. Follow the link or instructions provided.
+> Tap a category to dive in:
 
-**Note:** Use a VPN and an adblocker for safe browsing.
+- 🤖 **[AI Tools](Categories/AI/list.md)**
+- 💻 **[Computer Software](Categories/Computer/list.md)**
+- 📖 **[Educational Resources](Categories/Educational/list.md)**
+- 🎮 **[Gaming](Categories/Gaming/list.md)**
+- 📱 **[Mobile Apps](Categories/Mobile/list.md)**
+- 📺 **[Streaming Platforms](Categories/Streaming/list.md)**
+- 🌍 **[Torrenting Tools](Categories/Torrenting/list.md)**
+
+---
+
+## 📌 How to Use FMFY
+
+1. Select a category you’re interested in.  
+2. Browse the tools, apps, or services listed.  
+3. Follow the provided links or instructions.  
+
+**⚠️ Tip:** Use a VPN + adblocker for a safer experience.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is for **educational purposes only**. We don’t host any files or promote piracy. All content is shared by the community for personal testing.
+This project is for **educational use only**.  
+No files are hosted or piracy promoted.  
+Content is shared for personal testing by the community.
 
 ---
 
 ## 📡 Stay Connected
 
-Stay tuned for updates and future categories. Contributions welcome!
+New categories and resources are added regularly.  
+**Contributions are welcome** — let’s build it together!
 
 ---
